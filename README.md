@@ -5,8 +5,10 @@ This repository contains a series of mini web development projects built with HT
 
 The goal of this repository is to provide hands-on practice for frontend development, improve JavaScript skills, and create a reference collection of small projects that can be expanded over time.
 
-Current Projects Include:
-<<<<<<< HEAD
-A Digital Clock
-=======
->>>>>>> f5564538f7de77bf90ecb9637fc4ef753968c8ca
+## Current Projects Include:
+- **Digital Clock with Date & Day**  
+  A real-time digital clock built using JavaScript that displays:
+  - Hours, minutes, and seconds
+  - Current day of the week
+  - Current date (day, month, year)  
+
