@@ -22,5 +22,3 @@ The background can be customized with any image of your choice.
 
 ---
 
-## 🌐 Live Demo
-Try it here: [Digital Clock Live](https://vidhisonani.github.io/digital_clock/)
