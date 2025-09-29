@@ -21,4 +21,5 @@ It supports basic arithmetic operations, percentage, delete, and repeated calcul
 - **JavaScript** (ES6) for calculator logic 
 
 ---
-
+  
+**Live Demo:** [Calculator](https://calculatorbyvidhi.netlify.app/)
