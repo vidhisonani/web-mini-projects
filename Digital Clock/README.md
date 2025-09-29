@@ -22,3 +22,4 @@ The background can be customized with any image of your choice.
 
 ---
 
+**Live Demo:** [Digital Clock](https://digitalclockbyvidhi.netlify.app/)

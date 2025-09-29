@@ -17,8 +17,10 @@ This project replicates the homepage UI of Netflix, including the navigation bar
 
 ## 🛠️ Technologies Used
 
-**HTML5** – page structure
-**CSS3** – styling and responsive layout
-**JavaScript (ES6)** – interactivity
+- **HTML5** – page structure
+- **CSS3** – styling and responsive layout
+- **JavaScript (ES6)** – interactivity
 
 ---
+
+**Live Demo:** [Netflix Clone](https://minenclonebyvidhi.netlify.app/)

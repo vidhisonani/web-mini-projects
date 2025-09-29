@@ -20,3 +20,4 @@ It creates a trailing effect of hearts that follow your mouse cursor, fading out
 
 ---
 
+**Live Demo:** [Heart Trail](https://hearttrailbyvidhi.netlify.app/)
