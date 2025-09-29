@@ -1,42 +1,49 @@
-body{
-    margin: 0;
-    background-image: url(bg-image.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    backdrop-filter: blur(3px);
-    background-color: black;
+body {
+  width: 100vw;
+  margin: 0;
+  background-image: url(bg-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  backdrop-filter: blur(3px);
+  background-color: black;
 }
-#container{
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
-#clock-container{
-    align-items: center;
+#clock-container {
+  align-items: center;
 }
-#clock{
-    font-family: monospace;
-    font-size: 6.5rem;
-    font-weight: bold;
-    text-align: center;
-    color: white;
-    width: 100%;
-    -webkit-text-stroke: 1px rgba(0,0,0,0.5);
+#clock {
+  font-family: monospace;
+  font-size: 6.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  width: 100%;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.5);
 }
-#day{
-    font-family: monospace;
-    font-size: 2.5rem;
-    font-weight: bold;
-    text-align: center;
-    color: white;
-    width: 100%;
-    -webkit-text-stroke: 1px rgba(0,0,0,0.5);
+#day {
+  font-family: monospace;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  width: 100%;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.5);
 }
 #date-container {
-    text-align: center;
-    margin-top: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+@media screen and (min-width: 200px) and (max-width: 850px) {
+  #clock {
+    font-size: 4rem;
+    max-width: 80vw;
+  }
 }
