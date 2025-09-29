@@ -54,7 +54,7 @@ A frontend-only Netflix Clone built with HTML, CSS, and JavaScript.
 - Responsive navigation bar with logo and sign-in button
 -  Trending section with horizontal scrolling movies/shows and arrow controls
 
-**Live Demo:** [Netflix Clone](https://minenclonebyvidhi.netlify.app/)
+<!-- **Live Demo:** [Netflix Clone](https://minenclonebyvidhi.netlify.app/) -->
 
 ---
 ## 🚀 Technologies Used

@@ -23,4 +23,4 @@ This project replicates the homepage UI of Netflix, including the navigation bar
 
 ---
 
-**Live Demo:** [Netflix Clone](https://minenclonebyvidhi.netlify.app/)
+<!-- **Live Demo:** [Netflix Clone](https://minenclonebyvidhi.netlify.app/) -->
