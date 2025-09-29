@@ -22,6 +22,8 @@ A real-time digital clock built using JavaScript that displays:
 - Hours, minutes, and seconds
 - Current day of the week
 - Current date (day, month, year)
+  
+**Live Demo:** [Digital Clock](https://digitalclockbyvidhi.netlify.app/)
 
 ---
 
@@ -32,6 +34,8 @@ An interactive project where hearts follow the mouse cursor with a fading animat
 - Smooth scaling and fade-out effects
 - Fun, visually engaging cursor effect
 
+**Live Demo:** [Heart Trail](https://hearttrailbyvidhi.netlify.app/)
+
 ---
 
 ### 🧮 Calculator
@@ -41,12 +45,16 @@ A simple calculator built with HTML, CSS, and JavaScript:
 - Supports basic arithmetic operations
 - Clear and delete functionality
 
+**Live Demo:** [Calculator](https://calculatorbyvidhi.netlify.app/)
+
 ---
 
 ### 🎬 Netflix Clone
 A frontend-only Netflix Clone built with HTML, CSS, and JavaScript.
 - Responsive navigation bar with logo and sign-in button
 -  Trending section with horizontal scrolling movies/shows and arrow controls
+
+**Live Demo:** [Netflix Clone](https://minenclonebyvidhi.netlify.app/)
 
 ---
 ## 🚀 Technologies Used
