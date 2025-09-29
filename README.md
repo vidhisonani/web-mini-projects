@@ -30,11 +30,25 @@ A real-time digital clock built using JavaScript that displays:
 An interactive project where hearts follow the mouse cursor with a fading animation:
 
 - Smooth scaling and fade-out effects
-- Lightweight and responsive
 - Fun, visually engaging cursor effect
 
 ---
 
+### 🧮 Calculator
+
+A simple calculator built with HTML, CSS, and JavaScript:
+
+- Supports basic arithmetic operations
+- Clear and delete functionality
+
+---
+
+### 🎬 Netflix Clone
+A frontend-only Netflix Clone built with HTML, CSS, and JavaScript.
+- Responsive navigation bar with logo and sign-in button
+-  Trending section with horizontal scrolling movies/shows and arrow controls
+
+---
 ## 🚀 Technologies Used
 
 - **HTML5** – structure
