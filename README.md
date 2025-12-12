@@ -64,3 +64,18 @@ A frontend-only Netflix Clone built with HTML, CSS, and JavaScript.
 - **JavaScript (ES6)** – logic and interactivity
 
 ---
+
+### 🌤️ Daily Weather
+
+A simple **vanilla JavaScript weather app**.  
+It lets you check the current weather of any city using the **OpenWeatherMap API**.  
+The app displays weather info along with icons representing the conditions.  
+
+- Fetches **real-time weather data** for any city  
+- Displays temperature, weather description, and icons  
+- Clean layout with minimal design  
+- Easy to extend with more weather details  
+
+**Note:** Since this project is frontend-only, any API key must be added in `script.js`.
+
+---
