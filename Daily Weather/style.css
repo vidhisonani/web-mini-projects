@@ -76,3 +76,44 @@ p {
   font-weight: bold;
   color: hsla(0, 0%, 0%, 0.75);
 }
+
+/* Mobile */
+@media (max-width: 600px) {
+  .weatherForm {
+    display: flex;
+    flex-direction: column;
+  }
+  .cityInput {
+    width: 300px;
+    margin-bottom: 10px;
+  }
+  .btn {
+    width: 250px;
+    margin: auto;
+  }
+  .card {
+    width: 60vw;
+  }
+  .cityDisplay,
+  .tempDisplay {
+    font-size: 3rem;
+    margin-bottom: 15px;
+  }
+  .humidityDisplay {
+    margin-bottom: 15px;
+  }
+  .descDisplay, .errorDisplay {
+    font-size: 2rem;
+  }
+  .weatherEmoji {
+    margin: 0;
+    margin: 3px 0;
+    width: 130px;
+  }
+}
+/* card width for big screen */
+@media (min-width: 601px){
+  .card{
+    min-width: 300px;
+  }
+}
