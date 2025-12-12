@@ -57,13 +57,6 @@ A frontend-only Netflix Clone built with HTML, CSS, and JavaScript.
 <!-- **Live Demo:** [Netflix Clone](https://minenclonebyvidhi.netlify.app/) -->
 
 ---
-## 🚀 Technologies Used
-
-- **HTML5** – structure
-- **CSS3** – styling and animations
-- **JavaScript (ES6)** – logic and interactivity
-
----
 
 ### 🌤️ Daily Weather
 
@@ -77,5 +70,13 @@ The app displays weather info along with icons representing the conditions.
 - Easy to extend with more weather details  
 
 **Note:** Since this project is frontend-only, any API key must be added in `script.js`.
+
+---
+
+## 🚀 Technologies Used
+
+- **HTML5** – structure
+- **CSS3** – styling and animations
+- **JavaScript (ES6)** – logic and interactivity
 
 ---
