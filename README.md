@@ -15,6 +15,34 @@ The goal of this repository is to provide **hands-on practice for frontend devel
 
 ## 📂 Current Projects
 
+### 🌤️ Daily Weather
+
+A simple **vanilla JavaScript weather app**.  
+It lets you check the current weather of any city using the **OpenWeatherMap API**.  
+The app displays weather info along with icons representing the conditions.  
+
+- Fetches **real-time weather data** for any city  
+- Displays temperature, weather description, and icons  
+- Clean layout with minimal design  
+- Easy to extend with more weather details  
+
+**Note:** Since this project is frontend-only, any API key must be added in `script.js`.
+
+---
+
+### 📝 To-Do List
+
+A simple and interactive **To-Do List application** built using **HTML, CSS, and JavaScript**.  
+It helps users manage daily tasks by allowing them to **add, edit, complete, and delete tasks**.
+
+- Add new tasks
+- Edit existing tasks
+- Mark tasks as completed
+- Delete tasks
+- Separate sections for Tasks and Completed items
+
+---
+
 ### ⏰ Digital Clock with Date & Day
 
 A real-time digital clock built using JavaScript that displays:
@@ -57,22 +85,6 @@ A frontend-only Netflix Clone built with HTML, CSS, and JavaScript.
 <!-- **Live Demo:** [Netflix Clone](https://minenclonebyvidhi.netlify.app/) -->
 
 ---
-
-### 🌤️ Daily Weather
-
-A simple **vanilla JavaScript weather app**.  
-It lets you check the current weather of any city using the **OpenWeatherMap API**.  
-The app displays weather info along with icons representing the conditions.  
-
-- Fetches **real-time weather data** for any city  
-- Displays temperature, weather description, and icons  
-- Clean layout with minimal design  
-- Easy to extend with more weather details  
-
-**Note:** Since this project is frontend-only, any API key must be added in `script.js`.
-
----
-
 ## 🚀 Technologies Used
 
 - **HTML5** – structure

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TO DO LIST APP</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- <link rel="stylesheet" href="https://cdn.hugeicons.com/font/hgi-stroke-rounded.css" /> -->
+</head>
+
+<body>
+    <div class="box">
+        <h1>My To-Do List</h1>
+        <input id="inputTask" type="text" placeholder="Add a new task">
+        <button id="addBtn" onclick="addTask()">Add</button>
+
+        <h3 class="displayBlock1" style="display:none">Tasks</h3>
+        <hr class="displayBlock2" style="display:none">
+        <div class="taskContainer"></div>
+
+        <h3 class="displayBlock3" style="display:none;">Completed</h3>
+        <hr class="displayBlock4" style="display:none">
+        <div class="completeClassContainer"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

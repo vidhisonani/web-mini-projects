@@ -1,0 +1,136 @@
+/*Background
+Page background: #F1F8E9
+
+Main Container (Card)
+Card background: #FFFFFF
+Card border: #C8E6C9 
+
+Header / Top Bar
+Header background: #4CAF50
+Header text: #FFFFFF
+
+Input & Buttons
+Input border: #A5D6A7
+Primary button (Add): #4CAF50
+Button hover: #43A047
+
+Tasks
+Task text: #263238
+Completed task text: #2E7D32
+Completed background (optional):#E8F5E9
+
+Icons / Delete
+Delete icon: #E53935 */
+:root {
+  --light-background: #dbe7c1;
+  --card-background: #d4edd1;
+  --card-border: #a1b6a2;
+  --header-background: #4caf50;
+  --header-text: #ffffff;
+  --input-border: #a5d6a7;
+  --primary-button: #4caf50;
+  --button-hover: #43a047;
+  --task-text: #263238;
+  --completed-task-text: #2e7d32;
+  --completed-background: #e8f5e9;
+  --delete-button: #e53935;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Times New Roman", Times, serif;
+  background: linear-gradient(180deg, #76b852, #8dc26f);
+}
+.box {
+  width: 400px;
+  height: auto;
+  min-height: 250px;
+  border: 2px solid var(--card-border);
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  background-color: var(--card-background);
+  box-shadow: 5px 5px 5px rgb(107, 145, 109, 0.5);
+}
+h1 {
+  color: #6aa56d;
+  text-align: center;
+  font-size: 2.5rem;
+}
+h3 {
+  color: #6aa56d;
+  text-align: left;
+  margin-left: 15px;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+hr {
+  margin: 5px 0 0 0;
+  border: 0.5px solid var(--card-border);
+}
+#inputTask {
+  font-size: 1.3rem;
+  border: 2px solid #a5d6a7;
+  border-radius: 5px;
+  padding: 2px 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+#addBtn {
+  font-size: 1.3rem;
+  background-color: #76b852;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-left: 5px;
+  padding: 3px 15px;
+  border-radius: 5px;
+  font-family: Inter ,"Times New Roman", Times, serif;
+  text-align: center;
+}
+#addBtn:hover {
+  background-color: #6aa56d;
+}
+.taskContainer{
+    text-align: left;
+    color: #263238;
+    font-size: 1.3rem;
+    margin: 5px;
+}
+.completeClassContainer{
+    text-align: left;
+    color: #263238;
+    font-size: 1.3rem;
+    margin: 5px;
+}
+
+.editBtn, .deleteBtn{
+    border: none;
+    margin: 0 5px 0 10px;
+    padding: 0;
+    vertical-align: middle;
+    background: none;
+    color: #263238;
+    text-align: right;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+.taskContainer > div,
+.completeClassContainer > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.taskContainer span,
+.completeClassContainer span {
+  flex: 1;
+  margin-left: 8px;
+  color: #263238;
+}
