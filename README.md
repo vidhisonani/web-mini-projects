@@ -27,6 +27,8 @@ It showcases my education, skills, projects, and contact information.
 
 **Note:** This is the original version of my portfolio. The portfolio has since been rebuilt in **React + Tailwind CSS** with improved design and animations. 
 
+---
+
 ### 🌤️ Daily Weather
 
 A simple **vanilla JavaScript weather app**.  
