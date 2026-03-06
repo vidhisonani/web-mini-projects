@@ -23,7 +23,7 @@ It showcases my education, skills, projects, and contact information.
 - **Smooth scroll navigation** with sticky navbar.
 - Sections: Home, About, Skills, Education, Projects, Contact.
 
-**Live Demo:** [Portfolio]()
+**Live Demo:** [Portfolio](https://portfolio-project-by-vidhi-patel.netlify.app/)
 
 **Note:** This is the original version of my portfolio. The portfolio has since been rebuilt in **React + Tailwind CSS** with improved design and animations. 
 

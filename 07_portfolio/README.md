@@ -19,6 +19,10 @@ It showcases my education, skills, projects, and contact information.
 
 ---
 
+**Live Demo:** [Portfolio](https://portfolio-project-by-vidhi-patel.netlify.app/)
+
+---
+
 ## 📌 Note
 This is the original version of my portfolio.  
 The portfolio has since been rebuilt in **React + Tailwind CSS** with improved design and animations. 
