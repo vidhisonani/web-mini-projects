@@ -14,6 +14,18 @@ The goal of this repository is to provide **hands-on practice for frontend devel
 ---
 
 ## 📂 Current Projects
+### 🌐 Personal Portfolio — HTML CSS JS
+
+A clean and responsive **personal portfolio website** built with vanilla HTML, CSS, and JavaScript.  
+It showcases my education, skills, projects, and contact information.
+
+- Fully **responsive design** for mobile and desktop.
+- **Smooth scroll navigation** with sticky navbar.
+- Sections: Home, About, Skills, Education, Projects, Contact.
+
+**Live Demo:** [Portfolio]()
+
+**Note:** This is the original version of my portfolio. The portfolio has since been rebuilt in **React + Tailwind CSS** with improved design and animations. 
 
 ### 🌤️ Daily Weather
 
